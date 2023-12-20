@@ -40,7 +40,7 @@ LearnLytics is a revolutionary web application designed to enhance the learning 
 
 - Python powers the backend.
 - GPT-2 model employed for generating personalized responses in the chatbot.
-- Dependencies: TensorFlow, PyTorch, Transformers
+- Dependencies: TensorFlow, PyTorch, Transformers,Xampp Server
 
 ## Future Enhancements
 
